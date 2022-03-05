@@ -1,0 +1,23 @@
+body{
+    background-color: linear-gradient (red 0% blue 100%);
+    text-align: center;
+}
+
+.line{
+    background-color: black;
+    height: 6px;
+    width: 70px;
+    margin: 8px auto;
+}
+#app{
+    background-color: aquamarine;
+    height: 900px;
+}
+#games{
+    background-color: yellowgreen;
+    height: 300px;
+}
+#chatbot{
+    background-color: blueviolet;
+    height: 900px;
+}
